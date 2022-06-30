@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+h2 {
+    font-family: "Sofia";
+}
+ body {
+     background-color: lightblue;
+     font-family: 'Itim', cursive;
+     font-size: 20px;
+ }
